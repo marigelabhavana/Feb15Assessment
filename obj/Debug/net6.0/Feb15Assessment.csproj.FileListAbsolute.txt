@@ -1,0 +1,14 @@
+F:\ASP\Feb15Assessment\Feb15Assessment\bin\Debug\net6.0\Feb15Assessment.exe
+F:\ASP\Feb15Assessment\Feb15Assessment\bin\Debug\net6.0\Feb15Assessment.deps.json
+F:\ASP\Feb15Assessment\Feb15Assessment\bin\Debug\net6.0\Feb15Assessment.runtimeconfig.json
+F:\ASP\Feb15Assessment\Feb15Assessment\bin\Debug\net6.0\Feb15Assessment.dll
+F:\ASP\Feb15Assessment\Feb15Assessment\bin\Debug\net6.0\Feb15Assessment.pdb
+F:\ASP\Feb15Assessment\Feb15Assessment\obj\Debug\net6.0\Feb15Assessment.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP\Feb15Assessment\Feb15Assessment\obj\Debug\net6.0\Feb15Assessment.AssemblyInfoInputs.cache
+F:\ASP\Feb15Assessment\Feb15Assessment\obj\Debug\net6.0\Feb15Assessment.AssemblyInfo.cs
+F:\ASP\Feb15Assessment\Feb15Assessment\obj\Debug\net6.0\Feb15Assessment.csproj.CoreCompileInputs.cache
+F:\ASP\Feb15Assessment\Feb15Assessment\obj\Debug\net6.0\Feb15Assessment.dll
+F:\ASP\Feb15Assessment\Feb15Assessment\obj\Debug\net6.0\refint\Feb15Assessment.dll
+F:\ASP\Feb15Assessment\Feb15Assessment\obj\Debug\net6.0\Feb15Assessment.pdb
+F:\ASP\Feb15Assessment\Feb15Assessment\obj\Debug\net6.0\Feb15Assessment.genruntimeconfig.cache
+F:\ASP\Feb15Assessment\Feb15Assessment\obj\Debug\net6.0\ref\Feb15Assessment.dll
